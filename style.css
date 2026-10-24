@@ -25,7 +25,7 @@ body {
 }
 
 .phone-screen {
-  background: #f0f87e;
+  background: oklab(94.253% -0.00075 0.00245);
   border-radius: 32px;
   overflow: hidden;
   display: flex;
